@@ -1,6 +1,10 @@
+<img width="686" height="386" alt="hq720" src="https://github.com/user-attachments/assets/66010173-c9de-434d-b9dc-21f9a18282ea" />
+
+
 # Metin2 Trainer / Mod Menu — Offline Tool for PC
 
 Memory-editing utility for **Metin2** (offline/local-server environments). Provides client-side modifications for educational purposes and local testing. Compatible with Windows 10/11.
+
 
 ---
 
